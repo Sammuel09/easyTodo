@@ -1,4 +1,7 @@
-# easytodo
+# EasyTodo App
+
+The EasyTodo App is a mini project.
+
 
 ## Project setup
 ```
@@ -20,5 +23,12 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Testing
+```
+npm run test:unit
+```
+
+### Tailwind
+```
+In order to adhere to the style guide, this app extends tailwind using the tailwind.config.js file.
+```
